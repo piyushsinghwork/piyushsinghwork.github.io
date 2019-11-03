@@ -21,7 +21,7 @@ header{
 .section_info{
     text-transform: uppercase;
 }
-section{
+section,footer{
     padding:2em 0;
 }
 .p_80{
@@ -40,4 +40,15 @@ section{
 .skill_box:hover{
     background: rgb(63,94,251);
 background: linear-gradient(145deg, rgba(63,94,251,1) 0%, rgba(175,80,166,1) 59%, rgba(252,70,107,1) 100%);
+}
+.social{
+    display: flex;
+    flex-wrap: wrap;
+}
+.social a{
+    background-color:#ccc;
+    color: #555;
+    font-size: 3em;
+    padding:1em 2em;
+    margin: 0 .5em 1em .5em;
 }
