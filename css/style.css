@@ -27,9 +27,17 @@ section{
 .p_80{
     max-width: 75%;
 }
-#skills h5{
+#skills h6{
     padding-bottom: 1em;;
 }
 .skill_box{
-    padding:1em;
+    padding:2em;
+}
+.skill_box:hover h3,
+.skill_box:hover p{
+    color: #fff;
+}
+.skill_box:hover{
+    background: rgb(63,94,251);
+background: linear-gradient(145deg, rgba(63,94,251,1) 0%, rgba(175,80,166,1) 59%, rgba(252,70,107,1) 100%);
 }
