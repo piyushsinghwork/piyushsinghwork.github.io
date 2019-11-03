@@ -52,3 +52,9 @@ background: linear-gradient(145deg, rgba(63,94,251,1) 0%, rgba(175,80,166,1) 59%
     padding:1em 2em;
     margin: 0 .5em 1em .5em;
 }
+.social a:hover{
+    color: #999;
+}
+.single-work{
+    margin-bottom: 30px;
+}
