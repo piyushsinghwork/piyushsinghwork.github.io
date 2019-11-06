@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+}
+h1{
+    padding: .5em 0;
+}
+header{
+    padding:15vh 0 10vh 0;
+}
+.intro{
+    padding: 25vh 0;
+}
+.intro p{
+    padding-right: 100px;
+}
+.section_info{
+    text-transform: uppercase;
+}
+section,footer{
+    padding:2em 0;
+}
+.p_80{
+    max-width: 75%;
+}
+#skills h6{
+    padding-bottom: 1em;;
+}
+.skill_box{
+    padding:2em;
+}
+.skill_box:hover h3,
+.skill_box:hover p{
+    color: #fff;
+}
+.skill_box:hover{
+    background: rgb(63,94,251);
+background: linear-gradient(145deg, rgba(63,94,251,1) 0%, rgba(175,80,166,1) 59%, rgba(252,70,107,1) 100%);
+}
+.social{
+    display: flex;
+    flex-wrap: wrap;
+}
+.social a{
+    background-color:#ccc;
+    color: #555;
+    font-size: 3em;
+    padding:1em 2em;
+    margin: 0 .5em 1em .5em;
+}
+.social a:hover{
+    color: #999;
+}
+.single-work{
+    margin-bottom: 30px;
+}
