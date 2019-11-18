@@ -12,9 +12,14 @@ h1,h2,h3,h4,h5{
     border-radius: 0px 5px 5px 0px;
     opacity: 1;
     padding: 1em 2em;
+    }
+.resume:hover {
+    color: white;
+    text-decoration: underline;
 }
-h6{
-	font-weight:300;
+h6
+{
+	font-weight:200;
 	LETTER-SPACING: 1em;
 }
 h1{
