@@ -6,15 +6,16 @@ body{
 h1,h2,h3,h4,h5,h6{
     font-weight: 700;
 }
-h7{
-	font-weight:400;
-	LETTER-SPACING: 1em;
-}
-a{
+.resume
+{
 	background: transparent linear-gradient(248deg, #FDDB71 0%, #F0883F 100%, #EE7A37 100%) 0% 0% no-repeat padding-box;
     border-radius: 0px 5px 5px 0px;
     opacity: 1;
     padding: 1em 2em;
+}
+h7{
+	font-weight:400;
+	LETTER-SPACING: 1em;
 }
 h1{
     padding: .5em 0;
