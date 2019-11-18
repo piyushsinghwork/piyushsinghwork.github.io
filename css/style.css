@@ -6,6 +6,10 @@ body{
 h1,h2,h3,h4,h5{
     font-weight: 700;
 }
+h5.p_80 {
+    font-weight: 500;
+    font-size: 18px;
+}
 .resume
 {
     background: transparent linear-gradient(248deg, #FDDB71 0%, #F0883F 100%, #EE7A37 100%) 0% 0% no-repeat padding-box;
