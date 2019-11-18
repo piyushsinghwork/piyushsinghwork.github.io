@@ -11,14 +11,11 @@ h6.p_80 {
     font-size: 18px;
     LETTER-SPACING: 0em !important;
 }
-.intro p {
-    padding-right: 50px;
-}
 .h_30
 {
 	height: 30px;
 }
-p.semibold {
+.semibold {
     font-size: 15px;
     font-weight: 500;
 }
@@ -51,7 +48,7 @@ header{
     padding: 25vh 0;
 }
 .intro p{
-    padding-right: 100px;
+    padding-right: 50px;
 }
 .section_info{
     text-transform: uppercase;
