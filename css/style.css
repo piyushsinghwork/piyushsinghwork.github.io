@@ -11,6 +11,10 @@ h6.p_80 {
     font-size: 18px;
     LETTER-SPACING: 0em !important;
 }
+.h_30
+{
+	height:30px;
+}
 .resume
 {
     background: transparent linear-gradient(248deg, #FDDB71 0%, #F0883F 100%, #EE7A37 100%) 0% 0% no-repeat padding-box;
