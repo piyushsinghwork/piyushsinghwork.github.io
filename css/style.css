@@ -11,9 +11,16 @@ h6.p_80 {
     font-size: 18px;
     LETTER-SPACING: 0em !important;
 }
+.intro p {
+    padding-right: 50px;
+}
 .h_30
 {
 	height: 30px;
+}
+p.semibold {
+    font-size: 15px;
+    font-weight: 500;
 }
 .resume
 {
